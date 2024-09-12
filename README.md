@@ -1,11 +1,11 @@
-## Dmoney API Automation
-# Project summary: Performed Integration and API testing on dmoney API. In here I have automated the CRUD functionalities for a user.
-# Technologies I have used:
+# Dmoney API Automation
+## Project summary: Performed Integration and API testing on dmoney API. In here I have automated the CRUD functionalities for a user.
+## Technologies I have used:
 - Postman
 - newman
 - nodejs
 
-# How to run?
+## How to run?
 1. Clone this project
 2. Give this command `npm i`
 3. Add env file to your project root
@@ -16,5 +16,5 @@
 - Bug report for this project:
 
 
-# Output
+## Output
 ![image](https://github.com/user-attachments/assets/28bb9afb-21cd-4ef1-b4ab-3f36124291c4)
